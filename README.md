@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Rakshit Mahajan 👋
 
-<!--
-**mahajanRakshit/mahajanRakshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Business Analyst | CSE Graduate
 
-Here are some ideas to get you started:
+I am a Computer Science graduate interested in
+Business Analysis, Product Development and AI-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy understanding business problems, gathering requirements,
+analysing data and translating ideas into practical solutions.
+
+### 🎯 Areas of Interest
+- Business Analysis & Requirement Gathering
+- BRD, FRD and User Stories
+- Data Analysis & Visualization
+- Product Development
+- Generative AI
+
+### 🛠️ Technical Skills
+- Languages: Python, Java, JavaScript, SQL
+- Tools: Power BI, Excel, Figma, Git, GitHub
+- Concepts: SDLC, Agile, DFD, UML, RTM
+- Development: HTML, CSS, React Basics
+
+### 🚀 Featured Projects
+- InsightX – Data Analysis & Decision Support System
+- MediFare – Medicine Availability & Search Platform
+- Concrete Strength Prediction – Machine Learning Project
+
+### 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/rakshit-mahajan-5449b2230/
+- GitHub: https://github.com/mahajanRakshit
+- Mail: rakshitmahajan847@gmail.com
